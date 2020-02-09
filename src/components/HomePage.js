@@ -17,7 +17,7 @@ class HomePage extends Component {
         <div className="colTR">
             <div>
               <div className="TopRow">
-              <h1 className="headingLabel">My Todo</h1>
+              <h1 className="headingLabel">My Todos</h1>
             </div>
             <div className="TopRowTX">
               <div className="receiptHistory">
